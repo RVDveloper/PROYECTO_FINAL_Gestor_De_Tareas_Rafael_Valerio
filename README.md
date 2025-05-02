@@ -1,4 +1,4 @@
-# Gestor de Tareas - React
+# Gestor de Tareas - React Proyecto Final
 
 ## Jerarquía de Componentes
 
